@@ -1,0 +1,74 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?><project>
+  <actions/>
+  <description/>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    
+  </properties>
+  <scm class="hudson.plugins.git.GitSCM" plugin="git@4.13.0">
+    <configVersion>2</configVersion>
+    <userRemoteConfigs>
+      <hudson.plugins.git.UserRemoteConfig>
+        <url>https://github.com/carla-velasco7e4/DEV-projecte-DevOps</url>
+      </hudson.plugins.git.UserRemoteConfig>
+    </userRemoteConfigs>
+    <branches>
+      <hudson.plugins.git.BranchSpec>
+        <name>*/main</name>
+      </hudson.plugins.git.BranchSpec>
+    </branches>
+    <doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
+    <submoduleCfg class="empty-list"/>
+    <extensions/>
+  </scm>
+  <canRoam>true</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <jdk>(System)</jdk>
+  <triggers>
+    <com.cloudbees.jenkins.GitHubPushTrigger plugin="github@1.36.0">
+      <spec/>
+    </com.cloudbees.jenkins.GitHubPushTrigger>
+  </triggers>
+  <concurrentBuild>false</concurrentBuild>
+  <builders>
+    <hudson.tasks.Maven>
+      <targets>install</targets>
+      <mavenName>(Default)</mavenName>
+      <usePrivateRepository>false</usePrivateRepository>
+      <settings class="jenkins.mvn.DefaultSettingsProvider"/>
+      <globalSettings class="jenkins.mvn.DefaultGlobalSettingsProvider"/>
+      <injectBuildVariables>false</injectBuildVariables>
+    </hudson.tasks.Maven>
+    <br.com.ingenieux.jenkins.plugins.awsebdeployment.AWSEBDeploymentBuilder plugin="awseb-deployment-plugin@0.3.21">
+      <config>
+        <credentialId>f31823ba-892a-459c-8e60-659a92bbc38e</credentialId>
+        <awsRegion>eu-west-1</awsRegion>
+        <applicationName>springbootwebbuild</applicationName>
+        <environmentName>Springbootwebbuild-env</environmentName>
+        <bucketName>primerbucketmeu</bucketName>
+        <keyPrefix>intento/book-project-v${BUILD_NUMBER}</keyPrefix>
+        <versionLabelFormat>${GIT_COMMIT}-${BUILD_TAG}</versionLabelFormat>
+        <versionDescriptionFormat/>
+        <rootObject>target/</rootObject>
+        <includes>*.jar</includes>
+        <excludes/>
+        <zeroDowntime>false</zeroDowntime>
+        <sleepTime>90</sleepTime>
+        <checkHealth>true</checkHealth>
+        <maxAttempts>30</maxAttempts>
+        <skipEnvironmentUpdates>false</skipEnvironmentUpdates>
+      </config>
+    </br.com.ingenieux.jenkins.plugins.awsebdeployment.AWSEBDeploymentBuilder>
+  </builders>
+  <publishers/>
+  <buildWrappers>
+    <hudson.plugins.ws__cleanup.PreBuildCleanup plugin="ws-cleanup@0.43">
+      <deleteDirs>false</deleteDirs>
+      <cleanupParameter/>
+      <externalDelete/>
+      <disableDeferredWipeout>false</disableDeferredWipeout>
+    </hudson.plugins.ws__cleanup.PreBuildCleanup>
+  </buildWrappers>
+</project>
