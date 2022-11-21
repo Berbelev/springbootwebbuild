@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/pagina-entera.png"
+                "file": "images/config-bucket.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/pagina-entera.png",
+                "file": "images/config-bucket.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/pagina-entera.png",
+                "file": "images/config-bucket.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/pagina-entera.png"
+                "file": "images/config-bucket.png"
               }
             }
           }
@@ -136,6 +136,9 @@
   },
   "active": "e4a9b23ed4faac48",
   "lastOpenFiles": [
+    "images/environment-elastic.png",
+    "images/packaging-config.png",
+    "images/pagina-entera.png",
     "Firts note.md"
   ]
 }
