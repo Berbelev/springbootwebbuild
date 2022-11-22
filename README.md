@@ -37,18 +37,20 @@ Host utilizado para deploy con webhooks conectados a GitHub de Producción.
 ![[environment-elastic.png]]
 
 
+#### INTELJIDEA como IDE.
 
-FRAMEWORK SPRINGBOOT 
+#### FRAMEWORK SPRINGBOOT 
 
 ![[springinitializr.png]]
-
+![[pakaging_java.png]]
 
 
 MAVEN como gestor de dependencias y para la realizacíon de procesos build.
 
 H2 SQL
 
-INTELJIDEA como IDE.
+
+OTRAS HERRAMIENTAS CO
 
 
 OBSIDIAN y MARKDOWN para generar la documentación.
