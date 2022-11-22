@@ -5,6 +5,7 @@ Aplicación desarrollada y deployada por Carla Velasco y Eva Berbel como prueba 
 
 ![[books.png]]
 
+Aplicación de
 
 
 ## SOBRE LA APLICACIÓN
@@ -20,7 +21,12 @@ Aplicación desarrollada y deployada por Carla Velasco y Eva Berbel como prueba 
 > **Remotos**:
 >		Producción: [PROD-projecte-DevOps](https://github.com/carla-velasco7e4/PROD-projecte-DevOps)  (_Forqueado a desarrollo_)
 >		Desarrollo: [DEV-projecte-DevOps](https://github.com/Berbelev/DEV-projecte-DevOps) (_Creadas Ramas TODO_)
+
+
+>
 	**GitHub CLI** o **gh** como comand-line interfaz de GitHub usado desde terminal.
+	
+	
 ```
 gh auth login --hostname <hostname>
 ```
