@@ -19,8 +19,13 @@ SOBRE LA APLICACIÓN
 	
 
 #### JENKINS (CI/CD)
-Utilizado como servidor de atomoción, con el que se ha generado el pipeline **github-s3-elastic** ( [[pagina-entera.png]] ),  para configurar  
+Utilizado como servidor de atomoción, con el que se ha generado el pipeline **github-s3-elastic** ( [[pagina-entera.png]] ), en este workflows están configuarados:
 
+
+AWS S3
+`![[filename.png]]`
+
+AWS EB
 
 
 
@@ -36,9 +41,7 @@ INTELJIDEA
 
 JAVA
 
-AWS S3
 
-AWS EB
 
 OBSIDIAN
 

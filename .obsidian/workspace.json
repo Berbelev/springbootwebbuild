@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca6e4f24dd4e2f6",
+        "id": "000990e8f77ab28a",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f382371e0f2cc6",
+            "id": "87e35a5bbccba13b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,14 +136,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6f382371e0f2cc6",
+  "active": "87e35a5bbccba13b",
   "lastOpenFiles": [
-    "images/pagina-entera.png",
+    "images/packaging-config.png",
     "Firts note.md",
+    "images/pagina-entera.png",
     "[[pagina-entera.png]].md",
     "images/environment-elastic.png",
     "filename.png.md",
-    "images/packaging-config.png",
     "og-image.png.md",
     "images/config-bucket.png"
   ]
