@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firts note.md",
+                "file": "First note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firts note.md",
+                "file": "First note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firts note.md",
+                "file": "First note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firts note.md"
+                "file": "First note.md"
               }
             }
           }
@@ -139,7 +139,7 @@
   "active": "dbef18ebf600211c",
   "lastOpenFiles": [
     "images/packaging-config.png",
-    "Firts note.md",
+    "First note.md",
     "images/pagina-entera.png",
     "[[pagina-entera.png]].md",
     "images/environment-elastic.png",

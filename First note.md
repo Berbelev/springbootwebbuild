@@ -34,23 +34,18 @@ Un bucket primerbucketmeu en S3 de Amazon Web Service conectado a  AEB.
 #### AWS EB
 Host utilizado para deploy con webhooks conectados a GitHub de Producción.
 
-![[environment-elastic.png]]`
+![[environment-elastic.png]]
 
 
 
-FRAMEWORK SPRINGBOOT
-
+FRAMEWORK SPRINGBOOT JAVA
 
 
 MAVEN como gestor de dependencias.
 
-
 H2 SQL
 
 INTELJIDEA como IDE.
-
-JAVA
-
 
 
 OBSIDIAN y MARKDOWN para generar la documentación.
