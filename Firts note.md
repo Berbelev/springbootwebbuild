@@ -8,20 +8,19 @@ SOBRE LA APLICACIÓN
 
 
 #### GIT Y GITHUB Repositorios
-
->  Locales:
+>  **Locales**:
 > 	Local 1: en SO Windows 11
 > 	Locla 2: en SO Linux Mint 20.04
-
-> Remotos:
+> **Remotos**:
 >		Producción: [PROD-projecte-DevOps](https://github.com/carla-velasco7e4/PROD-projecte-DevOps)  (_Forqueado a desarrollo_)
 >		Desarrollo: [DEV-projecte-DevOps](https://github.com/Berbelev/DEV-projecte-DevOps) (_Creadas Ramas TODO_)
-
-GitHub CLI o gh como comand-line interfaz
+	**GitHub CLI** o **gh** como comand-line interfaz de GitHub usado desde terminal.
 
 	
 
-JENKINS
+#### JENKINS
+Utilizado como servidor de atomoción.
+
 
 
 
