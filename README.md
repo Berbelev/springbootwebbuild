@@ -3,6 +3,8 @@
 
 Aplicación desarrollada y deployada por Carla Velasco y Eva Berbel como prueba final del Curso DevOps.
 
+![[packaging-config.png]]
+
 
 
 ## SOBRE LA APLICACIÓN
