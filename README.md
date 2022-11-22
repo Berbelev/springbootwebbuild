@@ -6,11 +6,7 @@ Aplicación desarrollada y deployada por Carla Velasco y Eva Berbel como prueba 
 ![[books.png]]
 
 Aplicación de una API de biblioteca para consultar los libros disponibles en un listado o ver los detalles de un libro concreto. Realizada en  [SpringBoot](https://spring.io/projects/spring-boot) con Java 17 y  [Maven](https://maven.apache.org/)  , con una base de datos  en memoria([H2 Database ](https://www.h2database.com/html/main.html)) y con  [IntelliJ IDEA ](https://www.jetbrains.com/idea/) como IDE.
-```mermaid
-graph TD
 
-SpringBoot --> Git
-```
 
 
 
@@ -50,7 +46,7 @@ gh repo clone <repository> [<directory>] [-- <gitflags>...]
 Utilizado como servidor de atomoción, con el que se ha generado el pipeline **github-s3-elastic** ( [[pagina-entera.png]] ).
 En este workflows están configuarados y automátizados GitHub, S3 y Elastic Beanstalk a través del ejecutable .jar .
 
-![[packaging-config.png]]
+![[]]
 
 #### AWS S3
 Un bucket primerbucketmeu en S3 de Amazon Web Service conectado a  AEB.
