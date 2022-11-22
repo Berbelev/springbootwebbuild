@@ -23,6 +23,7 @@ SOBRE LA APLICACIÓN
 
 Utilizado como servidor de atomoción, con el que se ha generado el pipeline **github-s3-elastic** ( [[pagina-entera.png]] ), en este workflows están configuarados y automátizados:
 
+![[packaging-config.png]]`
 
 #### AWS S3
 Un bucket primerbucketmeu en S3 de Amazon Web Service conectado a  AEB.

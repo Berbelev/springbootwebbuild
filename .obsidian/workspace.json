@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "000990e8f77ab28a",
+        "id": "5491af71738b2a5b",
         "type": "tabs",
         "children": [
           {
-            "id": "87e35a5bbccba13b",
+            "id": "dbef18ebf600211c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87e35a5bbccba13b",
+  "active": "dbef18ebf600211c",
   "lastOpenFiles": [
     "images/packaging-config.png",
     "Firts note.md",
