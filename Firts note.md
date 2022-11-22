@@ -11,7 +11,7 @@ GIT
 
 GITHUB
 Repositorios Remotos:
-		Producción:
+		Producción: 
 		Desarrollo:
 	
 
@@ -20,6 +20,10 @@ JENKINS
 MAVEN
 
 SPRINGBOOT
+
+H2 SQL
+
+INTELJIDEA
 
 JAVA
 
