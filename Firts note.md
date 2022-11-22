@@ -14,17 +14,11 @@ SOBRE LA APLICACIÓN
 > 	Locla 2: en SO Linux Mint 20.04
 
 > Remotos:
->		Producción: [PROD-projecte-DevOps](https://github.com/carla-velasco7e4/PROD-projecte-DevOps)
->		Desarrollo: [DEV-projecte-DevOps](https://github.com/Berbelev/DEV-projecte-DevOps)
+>		Producción: [PROD-projecte-DevOps](https://github.com/carla-velasco7e4/PROD-projecte-DevOps)  (_Forqueado a desarrollo_)
+>		Desarrollo: [DEV-projecte-DevOps](https://github.com/Berbelev/DEV-projecte-DevOps) (_Creadas Ramas TODO_)
 
+GitHub CLI o gh como comand-line interfaz
 
-GitHub CLI
-
-```bash
-# start interactive setup
-$ gh auth login
-```
-	
 	
 
 JENKINS
