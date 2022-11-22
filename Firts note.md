@@ -19,7 +19,7 @@ SOBRE LA APLICACIÓN
 	
 
 #### JENKINS
-Utilizado como servidor de atomoción.
+Utilizado como servidor de atomoción, con el que se ha generado el pipeline 
 
 
 
