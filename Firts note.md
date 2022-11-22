@@ -18,8 +18,8 @@ SOBRE LA APLICACIÓN
 
 	
 
-#### JENKINS
-Utilizado como servidor de atomoción, con el que se ha generado el pipeline **github-s3-elastic** ( [[pagina-entera.png]] ).
+#### JENKINS (CI/CD)
+Utilizado como servidor de atomoción, con el que se ha generado el pipeline **github-s3-elastic** ( [[pagina-entera.png]] ),  para configurar  
 
 
 
