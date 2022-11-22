@@ -17,7 +17,7 @@ SOBRE LA APLICACIÓN
 >		Desarrollo: [DEV-projecte-DevOps](https://github.com/Berbelev/DEV-projecte-DevOps) (_Creadas Ramas TODO_)
 	**GitHub CLI** o **gh** como comand-line interfaz de GitHub usado desde terminal.
 
-(Reposiorio Origen procedente de [AlbertProfe](https://github.com/AlbertProfe/libraryH2command) )
+(Reposiorio Origen  de [AlbertProfe](https://github.com/AlbertProfe/libraryH2command) )
 
 ### JENKINS (CI/CD) 
 
