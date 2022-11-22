@@ -1,7 +1,7 @@
 
 # Header 1
-text
-Aplicación realizada por Carla Velasco y Eva Berbel como prueba final del Curso DevOps.
+
+Aplicación desarrollada por Carla Velasco y Eva Berbel como prueba final del Curso DevOps.
 
 SOBRE LA APLICACIÓN
 
@@ -41,17 +41,17 @@ FRAMEWORK SPRINGBOOT
 
 
 
-MAVEN
+MAVEN como gestor de dependencias.
 
 
 H2 SQL
 
-INTELJIDEA 
+INTELJIDEA como IDE.
 
 JAVA
 
 
 
-OBSIDIAN MARKDOWN
+OBSIDIAN y MARKDOWN para generar la documentación.
 
-NOTION
+NOTION para la puesta en común en el proceso de planificación.
