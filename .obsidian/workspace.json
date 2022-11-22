@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First note.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First note.md"
+                "file": "README.md"
               }
             }
           }
@@ -140,7 +140,7 @@
   "active": "dbef18ebf600211c",
   "lastOpenFiles": [
     "images/packaging-config.png",
-    "First note.md",
+    "README.md",
     "images/pagina-entera.png",
     "[[pagina-entera.png]].md",
     "images/environment-elastic.png",

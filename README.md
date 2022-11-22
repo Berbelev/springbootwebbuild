@@ -1,11 +1,11 @@
 
-# Header 1
+# Intro
 
-Aplicación desarrollada por Carla Velasco y Eva Berbel como prueba final del Curso DevOps.
-
-SOBRE LA APLICACIÓN
+Aplicación desarrollada y deployada por Carla Velasco y Eva Berbel como prueba final del Curso DevOps.
 
 
+
+## SOBRE LA APLICACIÓN
 
 ### GIT Y GITHUB Repositorios
 
