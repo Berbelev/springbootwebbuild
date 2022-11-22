@@ -7,7 +7,8 @@ SOBRE LA APLICACIÓN
 
 
 
-#### GIT Y GITHUB Repositorios
+### GIT Y GITHUB Repositorios
+
 >  **Locales**:
 > 	Local 1: en SO Windows 11
 > 	Locla 2: en SO Linux Mint 20.04
@@ -18,14 +19,18 @@ SOBRE LA APLICACIÓN
 
 	
 
-#### JENKINS (CI/CD)
-Utilizado como servidor de atomoción, con el que se ha generado el pipeline **github-s3-elastic** ( [[pagina-entera.png]] ), en este workflows están configuarados:
+### JENKINS (CI/CD) 
+
+Utilizado como servidor de atomoción, con el que se ha generado el pipeline **github-s3-elastic** ( [[pagina-entera.png]] ), en este workflows están configuarados y automátizados:
 
 
-AWS S3
-`![[filename.png]]`
+#### AWS S3
+Un bucket primerbucketmeu en S3 de Amazon Web Service
+![[config-bucket.png]]`
 
-AWS EB
+#### AWS EB
+
+![[environment-elastic.png]]`
 
 
 
