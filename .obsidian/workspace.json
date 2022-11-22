@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "33e1848080593a69",
+        "id": "92c7a34d19457048",
         "type": "tabs",
         "children": [
           {
-            "id": "e4a9b23ed4faac48",
+            "id": "cf6f4d8be8f4e12c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/pagina-entera.png"
+                "file": "Firts note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/pagina-entera.png",
+                "file": "Firts note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/pagina-entera.png",
+                "file": "Firts note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/pagina-entera.png"
+                "file": "Firts note.md"
               }
             }
           }
@@ -134,12 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4a9b23ed4faac48",
+  "active": "cf6f4d8be8f4e12c",
   "lastOpenFiles": [
+    "images/pagina-entera.png",
     "images/environment-elastic.png",
     "images/config-bucket.png",
     "images/packaging-config.png",
-    "images/pagina-entera.png",
     "Firts note.md"
   ]
 }
