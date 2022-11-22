@@ -50,7 +50,8 @@ MAVEN como gestor de dependencias y para la realizacíon de procesos build.
 H2 SQL
 
 
-OTRAS HERRAMIENTAS CO
+OTRAS 
+Como complemento a la gestión de desarrollo y planificación, también se ha hecho uso de las siguientes herramientas:
 
 
 OBSIDIAN y MARKDOWN para generar la documentación.
