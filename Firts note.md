@@ -10,15 +10,16 @@ SOBRE LA APLICACIÓN
 #### GIT Y GITHUB Repositorios
 
 >  Locales:
-> 	Local 1: en sistema Operativo Windows
-> 	Locla 2: en sistema Operativo Linux
+> 	Local 1: en SO Windows 11
+> 	Locla 2: en SO Linux Mint 20.04
 
 > Remotos:
 >		Producción: [PROD-projecte-DevOps](https://github.com/carla-velasco7e4/PROD-projecte-DevOps)
 >		Desarrollo: [DEV-projecte-DevOps](https://github.com/Berbelev/DEV-projecte-DevOps)
 
 
-
+GitHub CLI
+	
 	
 
 JENKINS
