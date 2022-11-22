@@ -19,6 +19,11 @@ SOBRE LA APLICACIÓN
 
 
 GitHub CLI
+
+```bash
+# start interactive setup
+$ gh auth login
+```
 	
 	
 
