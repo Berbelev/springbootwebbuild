@@ -5,10 +5,11 @@ Aplicación desarrollada y deployada por Carla Velasco y Eva Berbel como prueba 
 
 ![[books.png]]
 
-Aplicación de una biblioteca para mostrar los libros disponibles en un listado o ver los detalles de un libro concreto. Realizada en  [SpringBoot](https://spring.io/projects/spring-boot) con Java 17 y  [Maven](https://maven.apache.org/)  , con una base de datos  en memoria([H2 Database ](https://www.h2database.com/html/main.html)) y con IntelJidea [IntelliJ IDEA ](https://www.jetbrains.com/idea/) como IDE.
+Aplicación de una API de biblioteca para consultar los libros disponibles en un listado o ver los detalles de un libro concreto. Realizada en  [SpringBoot](https://spring.io/projects/spring-boot) con Java 17 y  [Maven](https://maven.apache.org/)  , con una base de datos  en memoria([H2 Database ](https://www.h2database.com/html/main.html)) y con IntelJidea [IntelliJ IDEA ](https://www.jetbrains.com/idea/) como IDE.
 
 
-## SOBRE LA APLICACIÓN
+
+## + SOBRE LA APLICACIÓN
 
 ### GIT Y GITHUB Repositorios
 
