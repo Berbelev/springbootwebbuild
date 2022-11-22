@@ -11,11 +11,11 @@ GIT
 
 GITHUB
 Repositorios Remotos:
-		Producción: 
-		Desarrollo:
-	```md
-http://obsidian.md - automatic!
-[Obsidian](http://obsidian.md)
+Producción: [PROD-projecte-DevOps](https://github.com/carla-velasco7e4/PROD-projecte-DevOps)
+	
+Desarrollo: [DEV-projecte-DevOps](https://github.com/Berbelev/DEV-projecte-DevOps)
+
+
 
 	
 
