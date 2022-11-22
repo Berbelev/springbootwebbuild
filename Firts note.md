@@ -1,6 +1,21 @@
 
 # Header 1
 text
+Aplicación realizada por Carla Velasco y Eva Berbel como prueba final del Curso DevOps.
 
 SOBRE LA APLICACIÓN
-Aplicación realizada por Carla Velasco y Eva Berbel como  haciendo uso 
+
+GIT
+
+GITHUB
+
+JENKINS
+
+MAVEN
+
+SPRINGBOOT
+
+JAVA
+
+
+
