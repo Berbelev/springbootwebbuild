@@ -41,7 +41,7 @@ Host utilizado para deploy con webhooks conectados a GitHub de Producción.
 FRAMEWORK SPRINGBOOT JAVA
 
 
-MAVEN como gestor de dependencias.
+MAVEN como gestor de dependencias y para la realizacíon de procesos build.
 
 H2 SQL
 
