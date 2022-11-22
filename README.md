@@ -14,10 +14,21 @@ Aplicación desarrollada y deployada por Carla Velasco y Eva Berbel como prueba 
 >  **Locales**:
 > 	Local 1: en SO Windows 11
 > 	Local 2: en SO Linux Mint 20.04
+
+
+
 > **Remotos**:
 >		Producción: [PROD-projecte-DevOps](https://github.com/carla-velasco7e4/PROD-projecte-DevOps)  (_Forqueado a desarrollo_)
 >		Desarrollo: [DEV-projecte-DevOps](https://github.com/Berbelev/DEV-projecte-DevOps) (_Creadas Ramas TODO_)
 	**GitHub CLI** o **gh** como comand-line interfaz de GitHub usado desde terminal.
+```
+gh auth login --hostname <hostname>
+```
+
+```
+gh repo clone <repository> [<directory>] [-- <gitflags>...]
+```
+
 
 (Reposiorio Origen  de [AlbertProfe](https://github.com/AlbertProfe/libraryH2command) )
 
