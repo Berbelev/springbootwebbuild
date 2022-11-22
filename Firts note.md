@@ -21,7 +21,7 @@ SOBRE LA APLICACIÓN
 
 ### JENKINS (CI/CD) 
 
-Utilizado como servidor de atomoción, con el que se ha generado el pipeline **github-s3-elastic** ( [[pagina-entera.png]] ), en este workflows están configuarados y automátizados:
+Utilizado como servidor de atomoción, con el que se ha generado el pipeline **github-s3-elastic** ( [[pagina-entera.png]] ), en este workflows están configuarados y automátizados GitHub, S3 y Elastic Beanstalk a través del ejecutable .jar .
 
 ![[packaging-config.png]]`
 
@@ -37,22 +37,21 @@ Host utilizado para deploy con webhooks conectados a GitHub de Producción.
 
 
 
+FRAMEWORK SPRINGBOOT
+
 
 
 MAVEN
 
-SPRINGBOOT
 
 H2 SQL
 
-INTELJIDEA
+INTELJIDEA 
 
 JAVA
 
 
 
-OBSIDIAN
-
-MARKDOWN
+OBSIDIAN MARKDOWN
 
 NOTION
