@@ -5,15 +5,16 @@ Aplicación realizada por Carla Velasco y Eva Berbel como prueba final del Curso
 
 SOBRE LA APLICACIÓN
 
-GIT
-	Local 1: en sistema Operativo Windows
-	Locla 2: en sistema Operativo Linux
+#### GIT
 
-GITHUB
-Repositorios Remotos:
-Producción: [PROD-projecte-DevOps](https://github.com/carla-velasco7e4/PROD-projecte-DevOps)
-	
-Desarrollo: [DEV-projecte-DevOps](https://github.com/Berbelev/DEV-projecte-DevOps)
+_Local 1: en sistema Operativo Windows_
+Locla 2: en sistema Operativo Linux
+
+#### GITHUB
+
+ Remotos:
+		Producción: [PROD-projecte-DevOps](https://github.com/carla-velasco7e4/PROD-projecte-DevOps)
+		Desarrollo: [DEV-projecte-DevOps](https://github.com/Berbelev/DEV-projecte-DevOps)
 
 
 
