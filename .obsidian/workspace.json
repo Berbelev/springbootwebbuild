@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "92c7a34d19457048",
+        "id": "3396138459250f3e",
         "type": "tabs",
         "children": [
           {
-            "id": "cf6f4d8be8f4e12c",
+            "id": "32919d7e0c67bab4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf6f4d8be8f4e12c",
+  "active": "32919d7e0c67bab4",
   "lastOpenFiles": [
+    "og-image.png.md",
     "Firts note.md",
     "images/environment-elastic.png",
     "images/pagina-entera.png",

@@ -13,12 +13,16 @@ GITHUB
 Repositorios Remotos:
 		Producción: 
 		Desarrollo:
+	```md
+http://obsidian.md - automatic!
+[Obsidian](http://obsidian.md)
+
 	
 
 JENKINS
 
-![Engelbart](https://github.com/Berbelev/DEV-projecte-DevOps)
-```
+
+
 
 MAVEN
 
