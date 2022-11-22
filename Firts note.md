@@ -25,10 +25,12 @@ Utilizado como servidor de atomoción, con el que se ha generado el pipeline **g
 
 
 #### AWS S3
-Un bucket primerbucketmeu en S3 de Amazon Web Service
+Un bucket primerbucketmeu en S3 de Amazon Web Service conectado a  AEB.
+
 ![[config-bucket.png]]`
 
 #### AWS EB
+Host utilizado para deploy con webhooks conectados a GitHub de Producción.
 
 ![[environment-elastic.png]]`
 
