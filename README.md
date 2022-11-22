@@ -38,7 +38,10 @@ Host utilizado para deploy con webhooks conectados a GitHub de Producción.
 
 
 
-FRAMEWORK SPRINGBOOT JAVA
+FRAMEWORK SPRINGBOOT 
+
+![[springinitializr.png]]
+
 
 
 MAVEN como gestor de dependencias y para la realizacíon de procesos build.
