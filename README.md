@@ -49,7 +49,10 @@ Host utilizado para deploy con webhooks conectados a GitHub de Producción.
 
 MAVEN como gestor de dependencias y para la realizacíon de procesos build.
 
-H2 SQL
+H2  D
+![[h2.png]]
+
+
 
 
 OTRAS 
