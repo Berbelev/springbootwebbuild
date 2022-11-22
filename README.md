@@ -49,16 +49,20 @@ Host utilizado para deploy con webhooks conectados a GitHub de Producción.
 
 MAVEN como gestor de dependencias y para la realizacíon de procesos build.
 
-H2  D
+
+### H2  Database Engine (Java SQL database)
+
+Aplicación de consola basada en navegador. Base de datos en memoria.
+
 ![[h2.png]]
 
 
 
 
-OTRAS 
+### OTRAS 
 Como complemento a la gestión de desarrollo y planificación, también se ha hecho uso de las siguientes herramientas:
 
 
-OBSIDIAN y MARKDOWN para generar la documentación.
+ - **OBSIDIAN** y **MARKDOWN** para generar la documentación.
 
-NOTION para la puesta en común en el proceso de planificación.
+ - **NOTION** para la puesta en común en el proceso de planificación.
